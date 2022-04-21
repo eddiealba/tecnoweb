@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap" rel="stylesheet">
-    <title>Tienda Targus</title>
+    <title>DR. VET</title>
     <style type="text/css">
 		body{
 			margin-right: 15%;
@@ -103,7 +103,7 @@
 </head>
 <body>
 	<div class="banner" id="banner">
-		<h1 class="titu" id="titu">VETERINARIA</h1>
+		<h1 class="titu" id="titu">DR. VET</h1>
 	</div>
 	<nav class="menu">
 		<ul>
