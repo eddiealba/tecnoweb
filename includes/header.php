@@ -110,6 +110,6 @@
 			<li><a href="index.php">Home</a></li>
 			<li><a href="catalogo.php">Servicios</a></li>
 			<li><a href="registro.php">Formulario</a></li>
-			<li><a href="validar.php">Contáctanos</a></li>
+			<li><a href="contactos.php">Contáctanos</a></li>
 		</ul>
 	</nav>
