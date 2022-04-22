@@ -117,5 +117,4 @@
 	<script src="vendor/bootstrap/js/popper.js"></script>
 	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 </body>
-<?php include ("includes/footer.php")?>
 </html>
